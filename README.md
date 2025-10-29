@@ -29,9 +29,9 @@ This project helped me understand how to:
 Below are some screenshots of the app 👇  
 
 
-![Splash Screen](screenshots/splash.png.jpg)
-![Gold Prices](screenshots/goldScreen.jpg.jpg)
-![Currency Section](screenshots/currencyScreen.jpg.jpg)
+![Splash Screen](screenshots/splash.png)
+![Gold Prices](screenshots/goldScreen.jpg)
+![Currency Section](screenshots/currencyScreen.jpg)
 
 ---
 
