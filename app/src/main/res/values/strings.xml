@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gold_Price_APP</string>
+    <string name="todo">TODO</string>
+    <string name="name">بازار آنلاین</string>
+    <string name="description">قیمت لحظه به لحظه ایی ارزو طلا</string>
+    <string name="gold_price"> طلا</string>
+    <string name="ars_price"> ارز</string>
+    <string name="digi">ارز دیجیتال</string>
+    <string name="server">سرور متصل نیست</string>
+</resources>
